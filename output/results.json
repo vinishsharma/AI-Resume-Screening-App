@@ -1,0 +1,1700 @@
+{
+  "batch_summary": {
+    "total_resumes": 51,
+    "successfully_parsed": 49,
+    "eligible": 20,
+    "rejected": 31,
+    "failed_unreadable": 2,
+    "failed_files": [
+      {
+        "file": "candidate_12.pdf",
+        "error": "Insufficient text extracted (scanned image or empty)"
+      },
+      {
+        "file": "candidate_24.pdf",
+        "error": "Insufficient text extracted (scanned image or empty)"
+      }
+    ],
+    "execution_time_seconds": 5.01
+  },
+  "ranked_candidates": [
+    {
+      "candidate_name": "ARUNIMA SAHA",
+      "eligible": true,
+      "rank": 1,
+      "email": "arunimasaha11@gmail.com",
+      "rejection_reasons": [],
+      "total_score": 78.0,
+      "score_breakdown": {
+        "ai_project_depth": 40.0,
+        "python_backend": 25.0,
+        "cloud_fullstack": 11.0,
+        "github": 0.0,
+        "engineering_depth": 2.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "AWS",
+        "Docker",
+        "FastAPI",
+        "LangChain",
+        "LangGraph",
+        "OpenAI",
+        "Pinecone",
+        "PostgreSQL",
+        "Python",
+        "SQL"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration, RAG pipeline & vector search and backend services.",
+      "github_summary": "No GitHub profile provided.",
+      "strengths": [
+        "Strong agentic/RAG project implementation with orchestration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "source_file": "candidate_43.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 2,
+      "email": "harishankersharma648@gmail.com",
+      "rejection_reasons": [],
+      "total_score": 73.0,
+      "score_breakdown": {
+        "ai_project_depth": 24.0,
+        "python_backend": 30.0,
+        "cloud_fullstack": 15.0,
+        "github": 0.0,
+        "engineering_depth": 4.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "Docker",
+        "FastAPI",
+        "Java",
+        "JavaScript",
+        "Kubernetes",
+        "LangChain",
+        "LangGraph",
+        "MongoDB",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Python",
+        "Qdrant",
+        "React",
+        "Redis",
+        "SQL",
+        "TypeScript",
+        "Vue"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration, Tool-calling / Function integration and backend services.",
+      "github_summary": "No GitHub profile provided.",
+      "strengths": [
+        "Demonstrated foundational AI framework integration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [],
+      "source_file": "candidate_41.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 3,
+      "email": "gourabdas1307@gmail.com",
+      "github_url": "https://github.com/gdas37467",
+      "rejection_reasons": [],
+      "total_score": 71.0,
+      "score_breakdown": {
+        "ai_project_depth": 26.0,
+        "python_backend": 30.0,
+        "cloud_fullstack": 15.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "AWS",
+        "Django",
+        "Docker",
+        "FastAPI",
+        "Flask",
+        "Java",
+        "LangChain",
+        "LangGraph",
+        "MongoDB",
+        "PostgreSQL",
+        "Python",
+        "React",
+        "Redis",
+        "SQL"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration, RAG pipeline & vector search and backend services.",
+      "github_summary": "GitHub profile not reachable, private, or rate limit reached.",
+      "strengths": [
+        "Strong agentic/RAG project implementation with orchestration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [],
+      "source_file": "candidate_17.pdf"
+    },
+    {
+      "candidate_name": "OPEN SOURCE",
+      "eligible": true,
+      "rank": 4,
+      "rejection_reasons": [],
+      "total_score": 71.0,
+      "score_breakdown": {
+        "ai_project_depth": 34.0,
+        "python_backend": 25.0,
+        "cloud_fullstack": 10.0,
+        "github": 0.0,
+        "engineering_depth": 2.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "Azure",
+        "Django",
+        "FastAPI",
+        "Kubernetes",
+        "LangChain",
+        "LangGraph",
+        "Node.js",
+        "OpenAI",
+        "Pinecone",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration, RAG pipeline & vector search and backend services.",
+      "github_summary": "No GitHub profile provided.",
+      "strengths": [
+        "Strong agentic/RAG project implementation with orchestration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "source_file": "candidate_30.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 5,
+      "email": "vaibhavwakde266@gmail.com",
+      "rejection_reasons": [],
+      "total_score": 64.0,
+      "score_breakdown": {
+        "ai_project_depth": 26.0,
+        "python_backend": 25.0,
+        "cloud_fullstack": 11.0,
+        "github": 0.0,
+        "engineering_depth": 2.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "AWS",
+        "ChromaDB",
+        "Docker",
+        "FastAPI",
+        "Flask",
+        "JavaScript",
+        "LangChain",
+        "LangGraph",
+        "LlamaIndex",
+        "Python",
+        "SQL"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration, RAG pipeline & vector search and backend services.",
+      "github_summary": "No GitHub profile provided.",
+      "strengths": [
+        "Strong agentic/RAG project implementation with orchestration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [],
+      "source_file": "candidate_33.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 6,
+      "email": "mainiyash2@gmail.com",
+      "github_url": "https://github.com/Yashmaini30",
+      "rejection_reasons": [],
+      "total_score": 61.0,
+      "score_breakdown": {
+        "ai_project_depth": 22.0,
+        "python_backend": 25.0,
+        "cloud_fullstack": 11.0,
+        "github": 0.0,
+        "engineering_depth": 3.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 2.0,
+        "penalty_reasons": [
+          "Keyword Discount (-2.0 pts): Framework listed in skills with limited usage evidence in project details."
+        ]
+      },
+      "matched_skills": [
+        "AWS",
+        "Docker",
+        "FAISS",
+        "FastAPI",
+        "Flask",
+        "GCP",
+        "LangChain",
+        "LangGraph",
+        "MongoDB",
+        "OpenAI",
+        "Pinecone",
+        "PostgreSQL",
+        "PyTorch",
+        "Python",
+        "TensorFlow"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration, RAG pipeline & vector search and backend services.",
+      "github_summary": "GitHub profile not reachable, private, or rate limit reached.",
+      "strengths": [
+        "Demonstrated foundational AI framework integration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Keyword Discount (-2.0 pts): Framework listed in skills with limited usage evidence in project details."
+      ],
+      "source_file": "candidate_13.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 7,
+      "email": "sultanasumaiya623@gmail.com",
+      "rejection_reasons": [],
+      "total_score": 61.0,
+      "score_breakdown": {
+        "ai_project_depth": 22.0,
+        "python_backend": 20.0,
+        "cloud_fullstack": 15.0,
+        "github": 0.0,
+        "engineering_depth": 4.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 2.0,
+        "penalty_reasons": [
+          "Keyword Discount (-2.0 pts): Framework listed in skills with limited usage evidence in project details."
+        ]
+      },
+      "matched_skills": [
+        "Docker",
+        "FastAPI",
+        "GCP",
+        "GraphQL",
+        "Java",
+        "LangChain",
+        "LangGraph",
+        "MongoDB",
+        "PostgreSQL",
+        "Python",
+        "React",
+        "SQL",
+        "TypeScript"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration, RAG pipeline & vector search and backend services.",
+      "github_summary": "No GitHub profile provided.",
+      "strengths": [
+        "Demonstrated foundational AI framework integration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Keyword Discount (-2.0 pts): Framework listed in skills with limited usage evidence in project details."
+      ],
+      "source_file": "candidate_28.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 8,
+      "email": "vivekchimnani4231@gmail.com",
+      "github_url": "https://github.com/Vivekk-11",
+      "rejection_reasons": [],
+      "total_score": 60.0,
+      "score_breakdown": {
+        "ai_project_depth": 12.0,
+        "python_backend": 30.0,
+        "cloud_fullstack": 15.0,
+        "github": 0.0,
+        "engineering_depth": 3.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "AWS",
+        "Docker",
+        "FastAPI",
+        "JavaScript",
+        "LangGraph",
+        "MongoDB",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Python",
+        "React",
+        "Redis",
+        "Rust",
+        "TypeScript",
+        "Vue"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration and backend services.",
+      "github_summary": "GitHub profile not reachable, private, or rate limit reached.",
+      "strengths": [
+        "Demonstrated foundational AI framework integration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [],
+      "source_file": "candidate_44.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 9,
+      "email": "roy.prajapat.143@gmail.com",
+      "github_url": "https://github.com/arjunkumaritsme12",
+      "rejection_reasons": [],
+      "total_score": 59.0,
+      "score_breakdown": {
+        "ai_project_depth": 26.0,
+        "python_backend": 20.0,
+        "cloud_fullstack": 10.0,
+        "github": 0.0,
+        "engineering_depth": 3.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "AWS",
+        "FastAPI",
+        "Java",
+        "JavaScript",
+        "LangChain",
+        "LangGraph",
+        "MongoDB",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "TensorFlow",
+        "TypeScript"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration, RAG pipeline & vector search and backend services.",
+      "github_summary": "GitHub profile not reachable, private, or rate limit reached.",
+      "strengths": [
+        "Strong agentic/RAG project implementation with orchestration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "source_file": "candidate_08.pdf"
+    },
+    {
+      "candidate_name": "Nevil Jasmin Mehta",
+      "eligible": true,
+      "rank": 10,
+      "email": "nevilmehta5@gmail.com",
+      "rejection_reasons": [],
+      "total_score": 59.0,
+      "score_breakdown": {
+        "ai_project_depth": 14.0,
+        "python_backend": 30.0,
+        "cloud_fullstack": 15.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "AWS",
+        "Django",
+        "Docker",
+        "FastAPI",
+        "Flask",
+        "Java",
+        "JavaScript",
+        "MongoDB",
+        "PostgreSQL",
+        "Python",
+        "Qdrant",
+        "React",
+        "Redis",
+        "SQL"
+      ],
+      "project_summary": "Demonstrated engineering work involving RAG pipeline & vector search, AI Framework implementation and backend services.",
+      "github_summary": "No GitHub profile provided.",
+      "strengths": [
+        "Demonstrated foundational AI framework integration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [],
+      "source_file": "candidate_50.pdf"
+    },
+    {
+      "candidate_name": "PRIYANSHU KUMAR",
+      "eligible": true,
+      "rank": 11,
+      "email": "krpriyanshu2805@gmail.com",
+      "rejection_reasons": [],
+      "total_score": 58.0,
+      "score_breakdown": {
+        "ai_project_depth": 34.0,
+        "python_backend": 20.0,
+        "cloud_fullstack": 4.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "FastAPI",
+        "JavaScript",
+        "LangChain",
+        "LangGraph",
+        "MongoDB",
+        "Node.js",
+        "Pinecone",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration, RAG pipeline & vector search and backend services.",
+      "github_summary": "No GitHub profile provided.",
+      "strengths": [
+        "Strong agentic/RAG project implementation with orchestration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "source_file": "candidate_16.pdf"
+    },
+    {
+      "candidate_name": "KRISHAN KANT",
+      "eligible": true,
+      "rank": 12,
+      "email": "krishankantptu@gmail.com",
+      "rejection_reasons": [],
+      "total_score": 51.0,
+      "score_breakdown": {
+        "ai_project_depth": 14.0,
+        "python_backend": 25.0,
+        "cloud_fullstack": 9.0,
+        "github": 0.0,
+        "engineering_depth": 3.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "Docker",
+        "Java",
+        "JavaScript",
+        "LangChain",
+        "MongoDB",
+        "OpenAI",
+        "PostgreSQL",
+        "Python",
+        "React",
+        "Redis",
+        "SQL",
+        "Spring Boot",
+        "TypeScript"
+      ],
+      "project_summary": "Demonstrated engineering work involving RAG pipeline & vector search, AI Framework implementation and backend services.",
+      "github_summary": "No GitHub profile provided.",
+      "strengths": [
+        "Demonstrated foundational AI framework integration",
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [],
+      "source_file": "candidate_09.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 13,
+      "email": "thumarraj999@gmail.com",
+      "github_url": "https://github.com/raj-github",
+      "rejection_reasons": [],
+      "total_score": 51.0,
+      "score_breakdown": {
+        "ai_project_depth": 18.0,
+        "python_backend": 18.0,
+        "cloud_fullstack": 15.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "AWS",
+        "Docker",
+        "Flask",
+        "GraphQL",
+        "JavaScript",
+        "MongoDB",
+        "Node.js",
+        "OpenAI",
+        "PostgreSQL",
+        "React",
+        "Redis",
+        "TypeScript"
+      ],
+      "project_summary": "Demonstrated engineering work involving RAG pipeline & vector search, Tool-calling / Function integration and backend services.",
+      "github_summary": "GitHub profile not reachable, private, or rate limit reached.",
+      "strengths": [
+        "Demonstrated foundational AI framework integration"
+      ],
+      "concerns": [],
+      "source_file": "candidate_40.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 14,
+      "email": "036cial1592002@gmail.com",
+      "github_url": "https://github.com/Vivek1592002",
+      "rejection_reasons": [],
+      "total_score": 46.0,
+      "score_breakdown": {
+        "ai_project_depth": 26.0,
+        "python_backend": 13.0,
+        "cloud_fullstack": 4.0,
+        "github": 0.0,
+        "engineering_depth": 3.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "Django",
+        "Java",
+        "JavaScript",
+        "LangChain",
+        "LangGraph",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Python",
+        "React",
+        "SQL"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration, RAG pipeline & vector search and backend services.",
+      "github_summary": "GitHub profile not reachable, private, or rate limit reached.",
+      "strengths": [
+        "Strong agentic/RAG project implementation with orchestration"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "source_file": "candidate_39.pdf"
+    },
+    {
+      "candidate_name": "M SAI KUSHITH",
+      "eligible": true,
+      "rank": 15,
+      "email": "msaikushith718@gmail.com",
+      "rejection_reasons": [],
+      "total_score": 43.0,
+      "score_breakdown": {
+        "ai_project_depth": 22.0,
+        "python_backend": 17.0,
+        "cloud_fullstack": 4.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 2.0,
+        "penalty_reasons": [
+          "Keyword Discount (-2.0 pts): Framework listed in skills with limited usage evidence in project details."
+        ]
+      },
+      "matched_skills": [
+        "Django",
+        "FastAPI",
+        "Java",
+        "LangChain",
+        "LangGraph",
+        "Python",
+        "React",
+        "SQL",
+        "TypeScript"
+      ],
+      "project_summary": "Demonstrated engineering work involving Multi-agent / Stateful orchestration, RAG pipeline & vector search and backend services.",
+      "github_summary": "No GitHub profile provided.",
+      "strengths": [
+        "Demonstrated foundational AI framework integration"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Keyword Discount (-2.0 pts): Framework listed in skills with limited usage evidence in project details."
+      ],
+      "source_file": "candidate_06.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 16,
+      "email": "pavani10112004@gmail.com",
+      "github_url": "https://github.com/Pavani",
+      "rejection_reasons": [],
+      "total_score": 42.0,
+      "score_breakdown": {
+        "ai_project_depth": 6.0,
+        "python_backend": 25.0,
+        "cloud_fullstack": 9.0,
+        "github": 0.0,
+        "engineering_depth": 2.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "Django",
+        "Docker",
+        "FastAPI",
+        "Flask",
+        "Java",
+        "JavaScript",
+        "MongoDB",
+        "Next.js",
+        "PostgreSQL",
+        "Python",
+        "React",
+        "SQL",
+        "TensorFlow"
+      ],
+      "project_summary": "Demonstrated engineering work involving AI evaluation / Quality benchmarks and backend services.",
+      "github_summary": "GitHub profile not reachable, private, or rate limit reached.",
+      "strengths": [
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [
+        "Limited AI/agentic project depth",
+        "Limited Redis / caching evidence"
+      ],
+      "source_file": "candidate_38.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 17,
+      "email": "aditi25.kala@gmail.com",
+      "github_url": "https://github.com/why-aditi",
+      "rejection_reasons": [],
+      "total_score": 34.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 25.0,
+        "cloud_fullstack": 9.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "Docker",
+        "FastAPI",
+        "Flask",
+        "Java",
+        "MongoDB",
+        "Node.js",
+        "PostgreSQL",
+        "PyTorch",
+        "Python",
+        "React",
+        "SQL",
+        "TensorFlow"
+      ],
+      "project_summary": "General software development with Python and supporting libraries.",
+      "github_summary": "GitHub profile not reachable, private, or rate limit reached.",
+      "strengths": [
+        "Robust asynchronous Python backend architecture"
+      ],
+      "concerns": [
+        "Limited AI/agentic project depth",
+        "Limited Redis / caching evidence"
+      ],
+      "source_file": "candidate_37.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 18,
+      "email": "pvjayavardhan6@gmail.com",
+      "rejection_reasons": [],
+      "total_score": 32.0,
+      "score_breakdown": {
+        "ai_project_depth": 10.0,
+        "python_backend": 13.0,
+        "cloud_fullstack": 9.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "C++",
+        "Docker",
+        "Flask",
+        "Java",
+        "JavaScript",
+        "PyTorch",
+        "Python",
+        "React",
+        "SQL",
+        "TensorFlow"
+      ],
+      "project_summary": "Demonstrated engineering work involving RAG pipeline & vector search and backend services.",
+      "github_summary": "No GitHub profile provided.",
+      "strengths": [
+        "Demonstrated foundational AI framework integration"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "source_file": "candidate_19.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": true,
+      "rank": 19,
+      "email": "thejeshwaarp@gmail.com",
+      "github_url": "https://github.com/tejaharleys",
+      "rejection_reasons": [],
+      "total_score": 22.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 13.0,
+        "cloud_fullstack": 9.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "Docker",
+        "Flask",
+        "JavaScript",
+        "MongoDB",
+        "Next.js",
+        "Node.js",
+        "OpenAI",
+        "PostgreSQL",
+        "Python",
+        "React",
+        "SQL",
+        "TypeScript"
+      ],
+      "project_summary": "General software development with Python and supporting libraries.",
+      "github_summary": "GitHub profile not reachable, private, or rate limit reached.",
+      "strengths": [],
+      "concerns": [
+        "Limited AI/agentic project depth",
+        "Limited Redis / caching evidence"
+      ],
+      "source_file": "candidate_26.pdf"
+    },
+    {
+      "candidate_name": "VIKRAM MADHYASTA",
+      "eligible": true,
+      "rank": 20,
+      "email": "vikrammadyasta@gmail.com",
+      "rejection_reasons": [],
+      "total_score": 18.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 5.0,
+        "cloud_fullstack": 11.0,
+        "github": 0.0,
+        "engineering_depth": 2.0
+      },
+      "penalties": {
+        "thin_wrapper_deduction": 0.0,
+        "tutorial_deduction": 0.0,
+        "keyword_stuffing_deduction": 0.0,
+        "penalty_reasons": []
+      },
+      "matched_skills": [
+        "AWS",
+        "Docker",
+        "Java",
+        "Kubernetes",
+        "OpenAI",
+        "Python",
+        "SQL"
+      ],
+      "project_summary": "General software development with Python and supporting libraries.",
+      "github_summary": "No GitHub profile provided.",
+      "strengths": [],
+      "concerns": [
+        "Limited AI/agentic project depth",
+        "Limited modern Python backend exposure (FastAPI/async)",
+        "Limited Redis / caching evidence"
+      ],
+      "source_file": "candidate_29.pdf"
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "candidate_name": "Untitled document)",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "Untitled document.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "yuvi.2003kce@gmail.com",
+      "github_url": "https://github.com/yuva12003",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_04.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "jainagam4@gmail.com",
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "Python",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Java",
+        "GraphQL",
+        "MongoDB",
+        "SQL"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_03.pdf"
+    },
+    {
+      "candidate_name": "SHIVAM RAJ",
+      "eligible": false,
+      "email": "shivam2kraj@gmail.com",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "Docker",
+        "Azure",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_02.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "kartikay.sinha17@gmail.com",
+      "github_url": "https://github.com/KS1745",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "Docker",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "MongoDB"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_01.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_05.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_07.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "abhinavmishra3322@gmail.com",
+      "github_url": "https://github.com/AbhinavMishra32",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_10.pdf"
+    },
+    {
+      "candidate_name": "candidate_12.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "Unreadable resume: Insufficient text extracted (scanned image or empty)"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_12.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "github_url": "https://github.com/Azizul-11",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_11.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "jaya85300@gmail.com",
+      "github_url": "https://github.com/jaya-nandi",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_14.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "Python",
+        "TensorFlow"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_15.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "jmd.harshitmishra@gmail.com",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "GCP",
+        "AWS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "GraphQL",
+        "MongoDB",
+        "SQL"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_18.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_20.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "github_url": "https://github.com/prajwalas1",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_22.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "annishasaravanan83@gmail.com",
+      "github_url": "https://github.com/annisha-atdoor",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_23.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_21.pdf"
+    },
+    {
+      "candidate_name": "candidate_24.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "Unreadable resume: Insufficient text extracted (scanned image or empty)"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_24.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_25.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "github_url": "https://github.com/GayathriPalraj-dev",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_27.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "chauhanshreya140@gmail.com",
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "Python",
+        "Redis",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Java",
+        "MongoDB",
+        "SQL"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_31.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "mukulpal0333@gmail.com",
+      "github_url": "https://github.com/mukulpal03",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "MongoDB"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_32.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "nisarga20suresh@gmail.com",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_34.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "prathameshpatil330@gmail.com",
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "PyTorch",
+        "TensorFlow",
+        "React",
+        "Next.js",
+        "Node.js",
+        "SQL"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_35.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "saifalinagori78@gmail.com",
+      "github_url": "https://github.com/Nagorisaifali",
+      "rejection_reasons": [
+        "No evidence of Python stack"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_36.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "anjalipatil1220@gmail.com",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_42.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "parshuramkumarofficial725@gmail.com",
+      "github_url": "https://github.com/parshuramkumarsitcomp-collab",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_45.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "aabhargupta2310@gmail.com",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "Redis",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_46.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "kirnaregal7@gmail.com",
+      "github_url": "https://github.com/kiran-naregal",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_47.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "aswinrajr12@gmail.com",
+      "github_url": "https://github.com/Aswinx0",
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "React"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_49.pdf"
+    },
+    {
+      "candidate_name": "Candidate",
+      "eligible": false,
+      "email": "nidhikmgowda24@gmail.com",
+      "github_url": "https://github.com/Nidhi-km",
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0.0,
+      "score_breakdown": {
+        "ai_project_depth": 0.0,
+        "python_backend": 0.0,
+        "cloud_fullstack": 0.0,
+        "github": 0.0,
+        "engineering_depth": 0.0
+      },
+      "matched_skills": [
+        "Python",
+        "AWS",
+        "JavaScript",
+        "React",
+        "Java"
+      ],
+      "project_summary": "",
+      "strengths": [],
+      "concerns": [],
+      "source_file": "candidate_48.pdf"
+    }
+  ]
+}
